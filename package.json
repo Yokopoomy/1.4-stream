@@ -1,0 +1,11 @@
+{
+  "name": "1.4-stream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "clear": "node clear.js"
+  },
+  "author": "Yokopoomy",
+  "license": "MIT"
+}
